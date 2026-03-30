@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💻 Nathan Andrade
 
-<!--
-**nathan-andradee/nathan-andradee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Engenharia de Software`**
 
-Here are some ideas to get you started:
+Me chamo Nathan de Andrade Silva,tenho 18 anos e sou natural de Brasília-DF.Concluí o ensino médio no Colégio Militar Dom Pedro II, e atualmente estou cursando Engenharia de Software no UniCEUB-Centro Universitário de Brasília.
+Estou buscando minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos. Possuo base em lógica de programação, resolução de problemas e aprendizado rápido de novas tecnologias, além de responsabilidade e facilidade para trabalhar em equipe. Tenho interesse em contribuir com soluções eficientes, adquirir experiência prática e evoluir constantemente como profissional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
