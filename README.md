@@ -9,6 +9,7 @@ Estou buscando minha primeira oportunidade profissional para aplicar e expandir 
 
 ### 🤖 Linguagens e Tecnologias
 
+**`Inglês Intermediário`**
 
 
 <img 
