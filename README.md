@@ -5,9 +5,12 @@
 Me chamo Nathan de Andrade Silva,tenho 18 anos e sou natural de Brasília-DF.Concluí o ensino médio no Colégio Militar Dom Pedro II, e atualmente estou cursando Engenharia de Software no UniCEUB-Centro Universitário de Brasília.
 Estou buscando minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos. Possuo base em lógica de programação, resolução de problemas e aprendizado rápido de novas tecnologias, além de responsabilidade e facilidade para trabalhar em equipe. Tenho interesse em contribuir com soluções eficientes, adquirir experiência prática e evoluir constantemente como profissional.
 
-# Currículo
+# Currículo/Portfólio
 
 [Currículo Nathan.pdf](https://github.com/user-attachments/files/26390568/Curriculo.Nathan.pdf)
+
+
+https://sites.google.com/view/nathan-andrade/p%C3%A1gina-inicial 
 
 
 ---
