@@ -10,7 +10,7 @@ Estou buscando minha primeira oportunidade profissional para aplicar e expandir 
 [Currículo Nathan.pdf](https://github.com/user-attachments/files/26390568/Curriculo.Nathan.pdf)
 
 
-https://sites.google.com/view/nathan-andrade/p%C3%A1gina-inicial 
+[(https://nathanandrade.vercel.app/)]    
 
 
 ---
