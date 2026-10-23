@@ -7,7 +7,7 @@ Estou buscando minha primeira oportunidade profissional para aplicar e expandir 
 
 # Currículo/Portfólio
 
-[Currículo Nathan.pdf](https://github.com/user-attachments/files/26390568/Curriculo.Nathan.pdf)
+[Curriculo Nathan.pdf](https://github.com/user-attachments/files/33888198/Curriculo.Nathan.pdf)
 
 
 [Portfólio Sites](https://nathanandrade.vercel.app/ )    
